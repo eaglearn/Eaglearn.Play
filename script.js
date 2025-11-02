@@ -425,7 +425,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <p>EagleLearn is complete — get the game now on Android or play instantly in your browser.</p>
                 <div class="popup-actions">
                     <!-- Direct APK download: place the APK at /EagleLearn.apk in the project for this to work -->
-                    <a class="popup-button popup-android" href="https://eaglearn.github.io/Eaglearn.Play/EagLearn Division-1_0_8.apk" download="EagLearn Division-1_0_8.apk" rel="noopener" title="Download EagleLearn APK">📱 Download APK (Android)</a>
+                    <a class="popup-button popup-android" href="https://eaglearn.github.io/Eaglearn.Play/EagLearn Division-1_0_9.apk" download="EagLearn Division-1_0_9.apk" rel="noopener" title="Download EagleLearn APK">📱 Download APK (Android)</a>
                     <a class="popup-button popup-browser" href="https://gd.games/bloooh1/eaglearn" target="_blank" rel="noopener">💻 Play in Browser</a>
                 </div>
                 <div class="popup-features">
