@@ -435,6 +435,7 @@ document.addEventListener('DOMContentLoaded', function() {
             </div>
         `;
         
+        
         // Add styles
         message.style.cssText = `
             position: fixed;
